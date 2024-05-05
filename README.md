@@ -1,7 +1,3 @@
-# Frontend Mentor - Todo app solution
-
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -36,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See solution](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [View live site](https://damola-147.github.io/.../)
+- Live Site URL: [View live site]()
 
 ## My process
 
@@ -53,6 +48,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Damola-147](https://github.com/Damola-147)
-- Frontend Mentor - [@Damola-147](https://www.frontendmentor.io/profile/Damola-147/) 
-- Twitter - [@adebiyi_stoke](https://www.twitter.com/adebiyi_stoke/) 
+- Website - https://linktr.ee/mohd_altamish
